@@ -5,20 +5,20 @@
 
 #trips li {
     list-style-type: none;
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     margin: 10px;
     border-radius: 7px;
 }
 
 #trips li a {
-    color: antiquewhite;
+    color: #f7ecda;
     text-decoration: none;
     display: block;
     padding: 10px;
 }
 
 #table {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     margin: 10px;
     padding: 10px;
     border-radius: 7px;
@@ -26,23 +26,23 @@
 
 #table h2 {
     margin-top: 10px;
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #table p {
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #table table {
     width: 100%;
-    background-color: antiquewhite;
+    background-color: #f7ecda;
     padding: 10px;
     border-radius: 7px;
 }
 
 #table th {
-    background-color: rgb(73, 43, 20);
-    color: antiquewhite;
+    background-color: #6c4526;
+    color: #f7ecda;
     padding: 10px;
     border-radius: 7px;
 }
@@ -53,7 +53,7 @@
 
 /*za podstranice*/
 #intro {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
     padding: 10px;
     margin-bottom: 20px;
@@ -61,11 +61,11 @@
 
 #intro h2,
 #intro p {
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #path {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
     padding: 10px;
     margin-bottom: 20px;
@@ -74,35 +74,35 @@
 #path h3,
 #path p,
 #path li {
-    color: antiquewhite
+    color: #f7ecda
 }
 
 #activities {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
     padding: 10px;
     margin-bottom: 20px;
 }
 
 #activities p {
-    background-color: antiquewhite;
+    background-color: #f7ecda;
     border-radius: 10px;
     padding: 10px;
 }
 
 #activities h3,
 #activities li {
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #gallery {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
     padding: 10px;
 }
 
 #gallery h3 {
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #photos {
