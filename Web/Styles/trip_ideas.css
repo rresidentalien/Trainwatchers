@@ -1,24 +1,26 @@
 #intro {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
+    box-shadow: 0 2px 6px rgba(108, 69, 38, 0.18);
     padding: 10px;
     margin-bottom: 20px;
 }
 
 #intro p,
 #intro h2 {
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #form {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
+    box-shadow: 0 2px 6px rgba(108, 69, 38, 0.18);
     padding: 10px;
     margin-bottom: 20px;
 }
 
 #form h3 {
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 #form select {
@@ -26,7 +28,7 @@
     border-radius: 10px 3px 3px 10px;
     width: 200px;
     height: 35px;
-    background-color: antiquewhite;
+    background-color: #f7ecda;
 }
 
 #form button {
@@ -34,7 +36,7 @@
     border-radius: 3px 10px 10px 3px;
     width: 70px;
     height: 35px;
-    background-color: antiquewhite;
+    background-color: #f7ecda;
 }
 
 #one,
@@ -43,16 +45,17 @@
 #six,
 #eight,
 #night {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     border-radius: 9px;
+    box-shadow: 0 2px 6px rgba(108, 69, 38, 0.18);
     padding: 10px;
-    color: antiquewhite;
+    color: #f7ecda;
 }
 
 main a:link {
-    color: #c2c2c2;
+    color: #dcc4aa;
 }
 
 main a:visited {
-    color: #c2c2c2;
+    color: #dcc4aa;
 }

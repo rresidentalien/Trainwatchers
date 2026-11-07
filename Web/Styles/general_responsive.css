@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: #f7ecda;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -18,8 +18,9 @@ h3 {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(275deg, rgba(194, 194, 194, 1) 0%, rgba(209, 207, 207, 1) 100%);
+    background-color: #dcc4aa;
     border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(108, 69, 38, 0.18);
     padding: 0px 20px;
     margin: 20px auto;
 }
@@ -35,26 +36,28 @@ h3 {
 }
 
 #navigation_list button {
-    background-color: rgb(73, 43, 20);
+    background-color: #6c4526;
     padding: 12px;
     font-size: 16px;
     border: none;
     border-radius: 9px;
+    box-shadow: 0 2px 5px rgba(108, 69, 38, 0.2);
 }
 
 #navigation_list button a {
-    color: rgb(240, 231, 231);
+    color: #f7ecda;
     text-decoration: none;
 }
 
 #navigation_list button {
-    color: rgb(222, 193, 145);
+    color: #dcc4aa;
 }
 
 main {
-    background: linear-gradient(275deg, rgba(194, 194, 194, 1) 0%, rgba(209, 207, 207, 1) 100%);
+    background-color: #dcc4aa;
     border: 0px;
     border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(108, 69, 38, 0.18);
     padding: 20px;
 }
 
@@ -74,7 +77,7 @@ footer p {
 }
 
 #footer_link {
-    color: rgb(73, 43, 20);
+    color: #6c4526;
 }
 
 @media (max-width: 830px) {
